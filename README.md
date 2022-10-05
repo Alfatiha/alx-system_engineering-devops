@@ -1,1 +1,1 @@
-this repostiory is for the alx shell basics task
+Display the contents list of your current directory
