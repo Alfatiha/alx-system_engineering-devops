@@ -1,1 +1,1 @@
-Display the contents list of your current directory
+script that switches the current user to the user betty
