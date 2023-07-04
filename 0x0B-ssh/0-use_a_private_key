@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# to connect to your server using SSH
+ssh -i ~/.ssh/school ubuntu@server1
